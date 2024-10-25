@@ -27,7 +27,7 @@ Ce site présente les informations suivantes :
 - Liens utiles
 
 
-Voici une vidéo explicative :
+Voici une vidéo explicatives :
 
 .. raw:: html
 
