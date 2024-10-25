@@ -1,0 +1,15 @@
+{
+
+    "key": "enter",
+
+    "command": "-restructuredtext.editor.listEditing"
+
+},
+
+{
+
+    "key": "ctrl+q",
+
+    "command": "-workbench.action.quit"
+
+}
